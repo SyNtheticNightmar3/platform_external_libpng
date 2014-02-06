@@ -1,7 +1,7 @@
 
 /* pngrutil.c - utilities to read a PNG file
  *
- * Last changed in libpng 1.2.51 [February 3, 2014]
+ * Last changed in libpng 1.2.51 [February 6, 2014]
  * Copyright (c) 1998-2014 Glenn Randers-Pehrson
  * Copyright (c) 2010-2011, Code Aurora Forum. All rights reserved.
  * (Version 0.96 Copyright (c) 1996, 1997 Andreas Dilger)
